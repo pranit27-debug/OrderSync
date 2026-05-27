@@ -1,4 +1,4 @@
-# Trachios - Order Management System
+# OrderSync - Order Management System
 
 A robust order management system built with Go, featuring automated order lifecycle tracking, Redis caching, and JWT-based authentication.
 
