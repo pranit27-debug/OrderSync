@@ -1,0 +1,12 @@
+# file: .dockerignore
+
+# Ignore persistent data volumes
+postgres-data/
+redis-data/
+
+# Ignore git files
+.git
+.gitignore
+
+# Ignore documentation
+README.md
