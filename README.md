@@ -594,4 +594,3 @@ For support and questions:
 
 ---
 
-**Trachios** - Efficient Order Management for Modern Applications
